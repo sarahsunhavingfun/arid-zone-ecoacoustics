@@ -1,0 +1,122 @@
+soundscape:
+  name: sarah_soundscapes_combined
+  dir: ${call_library}/testing_soundscapes/sarah_soundscapes
+  parser: audacity
+  translation_table: ${call_library}/testing_soundscapes/sarah_soundscapes/species_translation_table.csv
+  audio_files:
+  - Fowlers april 2026/saloon control/CICADA30_20260327_114002_clip20min.wav
+  - Fowlers april 2026/saloon control/CICADA30_20260327_134002_clip20min.wav
+  - Fowlers april 2026/saloon control/CICADA30_20260327_164002_clip20min.wav
+  - Fowlers april 2026/saloon control/CICADA30_20260408_074800_clip20min.wav
+  - Fowlers april 2026/saloon control/CICADA30_20260408_154802_clip20min.wav
+  - Fowlers april 2026/saloon control/CICADA30_20260408_184802_clip20min.wav
+  - Fowlers april 2026/saloon herbivore/CICADA39_20260403_104502_clip20min.wav
+  - Fowlers april 2026/saloon herbivore/CICADA39_20260403_154502_clip20min.wav
+  - Fowlers april 2026/saloon herbivore/CICADA39_20260403_164502_clip20min.wav
+  - Fowlers april 2026/saloon herbivore/CICADA39_20260408_084802_clip20min.wav
+  - Fowlers april 2026/salt control/CICADA28_20260402_084402_clip20min.wav
+  - Fowlers april 2026/salt control/CICADA28_20260402_134402_clip20min.wav
+  - Fowlers april 2026/salt control/CICADA28_20260402_164402_clip20min.wav
+  - Fowlers april 2026/salt herbivore/CICADA40_20260331_104302_clip20min.wav
+  - Fowlers april 2026/salt herbivore/CICADA40_20260331_154302_clip20min.wav
+  - Fowlers april 2026/salt herbivore/CICADA40_20260331_174302_clip20min.wav
+  - edited josh soundscapes/Fowlers creek 2025/ZACHAUS_20251021_082002_offset_2033.wav
+  - edited josh soundscapes/Fowlers creek 2025/ZACHAUS_20251022_172002.wav
+  - edited josh soundscapes/Fowlers creek 2025/ZACHAUS_20251023_012002_offset_441.wav
+  - edited josh soundscapes/Fowlers creek 2025/ZACHAUS_20251023_072002_offset_1784.wav
+  - edited josh soundscapes/Fowlers gap hills dam/FG31GAPDAM_20250318_073502_offset_216.wav
+  - edited josh soundscapes/Fowlers gap hills dam/FG31GAPDAM_20250318_184700_offset_1198.wav
+  - edited josh soundscapes/Fowlers gap hills dam/FG31GAPDAM_20250319_194602_offset_1200.wav
+  - edited josh soundscapes/Fowlers gap hills dam/FG31GAPDAM_20250320_063600_offset_588.wav
+  - edited josh soundscapes/Fowlers gap hills dam/FG31GAPDAM_20250320_073602_offset_2012.wav
+  - edited josh soundscapes/Fowlers plains 2022/MLFOWGAP_20220502_060400_offset_120.wav
+  - edited josh soundscapes/Fowlers plains 2022/MLFOWGAP_20220502_060400_offset_1753.wav
+  - edited josh soundscapes/Fowlers plains 2022/S4A17479_20220721_062700_offset_10.wav
+  - edited josh soundscapes/Fowlers plains 2022/S4A17512_20220529_062100_offset_1838.wav
+  - edited josh soundscapes/Fowlers plains 2022/S4A17512_20220529_062100_offset_86.wav
+  - edited josh soundscapes/Fowlers plains 2025/FSLNC_20251105_180000_offset_1403.wav
+  - edited josh soundscapes/Fowlers plains 2025/FSLNC_20251106_043300_offset_1830.wav
+  - edited josh soundscapes/Fowlers plains 2025/FSLNC_20251106_043300_offset_325.wav
+  - edited josh soundscapes/Fowlers plains 2025/FSLNC_20251106_180100_offset_942.wav
+  - edited josh soundscapes/Fowlers plains 2025/FSLNC_20251107_043200_offset_1294.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON1_20230709_070800_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON1_20230709_181802_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON1_20240529_061300_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON1_20240529_162700_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON1_20250329_053200_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON1_20250329_182302_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON2_20240319_052500_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON2_20240319_173500_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON2_20240819_065402_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON2_20240924_050900_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON2_20240924_182002_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON2_20260206_053702_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BCON2_20260206_180600_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX1_20230606_080202_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX1_20230606_171000_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX1_20250318_210618_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX2_20231202_040900_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX2_20231202_191402_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX2_20240903_053700_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX2_20240903_180702_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX2_20241007_045300_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX2_20241007_172800_clip20min.wav
+  - grazing linkage/Boolcoomatta 2023-2026/BX2_20251209_190502_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-GRAZED_20230824_053000_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-GRAZED_20230824_164200_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-GRAZED_20240609_055700_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-GRAZED_20240609_160800_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-UNGR_20230401_061402_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-UNGR_20230401_180002_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-UNGR_20240528_060600_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/CON-UNGR_20240528_162500_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FMANC_20241128_042200_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FMANC_20241128_192002_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FMANP_20250109_042300_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FMANP_20250109_181700_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FMLH_20250422_055700_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FMLH_20250422_180504_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FSALOONC_20240828_055400_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FSALOONC_20240828_181502_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FSALOONX_20241005_050600_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FSALOONX_20241005_173700_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FSLNC_20250520_071602_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/FSLNC_20250520_164300_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-GRA_20231024_043000_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-GRA_20231024_173500_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-GRA_20251205_052202_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-GRA_20251205_192602_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-UNGR_20231114_041300_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-UNGR_20231114_185202_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-UNGR_20251124_052402_clip20min.wav
+  - grazing linkage/Fowlers 2023-2026/WARR-UNGR_20251124_191702_clip20min.wav
+
+models:
+  - birdnet-global-3.0
+  - perch
+  - birdnet_ensemble_r1
+  - birdnet_ensemble_r2
+  - birdnet_ensemble_r3
+  - birdnet_ensemble_r4
+  - birdnet_ensemble_r5
+  - birdnet_ensemble_r6
+  - birdnet_ensemble_r7
+  - birdnet_ensemble_r8
+  - birdnet_ensemble_r9
+  - birdnet_ensemble_r10
+  - perch_ensemble_r1
+  - perch_ensemble_r2
+  - perch_ensemble_r3
+  - perch_ensemble_r4
+  - perch_ensemble_r5
+  - perch_ensemble_r6
+  - perch_ensemble_r7
+  - perch_ensemble_r8
+  - perch_ensemble_r9
+  - perch_ensemble_r10
+
+exclude_prefixes_remove: [Cricket 1, Cricket 2, Cricket 3]
+
+out_dir: ${experiments}/bhc01_ensemble_soundscape_eval
+cache_dir: ${experiments}/_score_cache
+recognizer_dir: /Volumes/sarahdrive/output/recognisers/final results/Hyperparameters and training stochasticity/BHC01_10repeat

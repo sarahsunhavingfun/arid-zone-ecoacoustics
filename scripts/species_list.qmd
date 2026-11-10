@@ -1,0 +1,81 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+## 
+
+```{r}
+library(dplyr)
+library(readr)
+
+species <- read_csv("/Volumes/sarahdrive/r studio/BHC01 species analysis/data-3.csv")
+
+# ── Mammals ────────────────────────────────────────────────────────────────────
+# Include all Mammalia EXCEPT:
+#   - Chiroptera (bats)
+#   - Rodentia (rodents)
+#   - Peramelemorphia / Thylacomyidae (bilby)
+#   - Dasyuridae (marsupial mice / dunnarts / planigales / kultarr)
+species <- species %>%
+  filter(`Taxon Rank` == "species")
+
+mammals <- species %>%
+  filter(
+    Class == "Mammalia",
+    !Order %in% c("Chiroptera", "Rodentia", "Peramelemorphia"),
+    !Family %in% c("Dasyuridae")
+  )
+
+# ── Frogs ──────────────────────────────────────────────────────────────────────
+frogs <- species %>%
+  filter(Class == "Amphibia")
+
+# ── Birds ──────────────────────────────────────────────────────────────────────
+birds <- species %>%
+  filter(Class == "Aves")
+
+# ── Cicadas ────────────────────────────────────────────────────────────────────
+# Family Cicadidae within Hemiptera
+cicadas <- species %>%
+  filter(Family == "Cicadidae")
+
+# ── Crickets & Katydids ────────────────────────────────────────────────────────
+# Orthoptera, but excluding grasshoppers (Acrididae) and Pyrgomorphidae
+# Katydids = Tettigoniidae
+# Crickets = Gryllidae, Gryllacrididae, Gryllotalpidae, Oecanthidae,
+#            Phalangopsidae, Trigonidiidae
+# Also keeping: Morabidae, Tetrigidae (wingless/ground crickets)
+
+crickets_katydids <- species %>%
+  filter(
+    Order == "Orthoptera",
+    !Family %in% c("Acrididae", "Pyrgomorphidae")
+  )
+
+# ── Combine all groups ─────────────────────────────────────────────────────────
+filtered_species <- bind_rows(
+  mammals,
+  frogs,
+  birds,
+  cicadas,
+  crickets_katydids
+)
+
+# Preview counts by group
+cat("Mammals (excl. bats, rodents, bilby, dasyurids):", nrow(mammals), "\n")
+cat("Frogs:             ", nrow(frogs), "\n")
+cat("Birds:             ", nrow(birds), "\n")
+cat("Cicadas:           ", nrow(cicadas), "\n")
+cat("Crickets/Katydids: ", nrow(crickets_katydids), "\n")
+cat("─────────────────────────────────────────\n")
+cat("Total:             ", nrow(filtered_species), "\n")
+
+# Optional: write to file
+write_csv(filtered_species, "filtered_species.csv")
+```
+
+```{r}
+getwd()
+```
