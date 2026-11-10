@@ -47,12 +47,3 @@ names the specific source files and folders it expects.
 | `all_model_compare_by_backbone.py` | Figure: all models' macro AUPRC/AUROC (foundation, regional, ensemble), split by backbone. |
 | `optimise_hyperparameters.sh` | Reusable Bayesian hyperparameter search wrapper for either backbone (BirdNET's built-in `--autotune`, or `perch-head`'s `tune_head.py`). Not specific to this project — usable for any transfer-learning classifier head on either backbone. |
 | `species_list.qmd` | R/Quarto notebook, BHC01's species list by taxonomic group. |
-
-## A note on reproducibility
-
-Every script here was checked against its own live output at the time it was written —
-either by re-running it and comparing the result to the published thesis numbers, or by
-tracing it back to the original computation in the project's working history. Where a
-script's docstring says a value was "transcribed" rather than computed (one figure script
-only), that's because its original generating code was lost and the values were instead
-checked against independently reproduced numbers from the other scripts here.

@@ -1,7 +1,6 @@
 """Rebuild all_model_compare_by_backbone.png.
 
-The original generating script was lost; values are transcribed from the
-original figure (kept in originals/all_model_compare_by_backbone.png).
+Values are cross-checked against the live outputs of the other scripts here.
 SD is None for single-run global models.
 """
 from pathlib import Path
