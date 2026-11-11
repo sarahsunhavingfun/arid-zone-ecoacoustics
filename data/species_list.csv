@@ -1,0 +1,204 @@
+scientific_name,common_name,category,in_birdnet_v2_4,in_perch_v2_0
+Acanthagenys rufogularis,Spiny-cheeked Honeyeater,present_in_both,True,True
+Acanthiza apicalis,Inland Thornbill,present_in_both,True,True
+Acanthiza chrysorrhoa,Yellow-rumped Thornbill,present_in_both,True,True
+Acanthiza uropygialis,Chestnut-rumped Thornbill,present_in_both,True,True
+Acrocephalus australis,Australian Reed Warbler,present_in_both,True,True
+Actitis hypoleucos,Common Sandpiper,present_in_both,True,True
+Aegotheles cristatus,Australian Owlet Nightjar,present_in_both,True,True
+Anarhynchus ruficapillus,Red-capped Plover,present_in_both,True,True
+Anas castanea,Chestnut Teal,present_in_both,True,True
+Anas gracilis,Grey Teal,present_in_both,True,True
+Anas superciliosa,Pacific Black Duck,present_in_both,True,True
+Anhinga novaehollandiae,Australasian Darter,present_in_both,True,True
+Anthus australis,Australian Pipit,present_in_both,True,True
+Aphelocephala leucopsis,Southern Whiteface,present_in_both,True,True
+Apus pacificus,Pacific Swift,present_in_both,True,True
+Aquila audax,Wedge-tailed Eagle,present_in_both,True,True
+Ardea alba,Great Egret,present_in_both,True,True
+Ardea pacifica,White-necked Heron,present_in_both,True,True
+Artamus cinereus,Black-faced Woodswallow,present_in_both,True,True
+Artamus cyanopterus,Dusky Woodswallow,present_in_both,True,True
+Artamus leucorynchus,White-breasted Woodswallow,present_in_both,True,True
+Artamus personatus,Masked Woodswallow,present_in_both,True,True
+Artamus superciliosus,White-browed Woodswallow,present_in_both,True,True
+Aythya australis,Hardhead,present_in_both,True,True
+Barnardius zonarius,Australian Ringneck,present_in_both,True,True
+Biziura lobata,Musk Duck,present_in_both,True,True
+Bos taurus,Cattle,present_in_both,True,True
+Burbunga hillieri,Desert Screamer,missing_from_birdnet_only,False,True
+Cacatua galerita,Sulphur-crested Cockatoo,present_in_both,True,True
+Cacatua leadbeateri,Pink Cockatoo,present_in_both,True,True
+Cacatua sanguinea,Little Corella,present_in_both,True,True
+Cacomantis flabelliformis,Fan-tailed Cuckoo,present_in_both,True,True
+Calamanthus campestris,Rufous Fieldwren,present_in_both,True,True
+Calidris acuminata,Sharp-tailed Sandpiper,present_in_both,True,True
+Calidris ferruginea,Curlew Sandpiper,present_in_both,True,True
+Calidris ruficollis,Red-necked Stint,present_in_both,True,True
+Canis lupus dingo,Dingo,missing_from_both,False,False
+Capra hircus,Goat,present_in_both,True,True
+Certhionyx variegatus,Pied Honeyeater,present_in_both,True,True
+Chalcites basalis,Horsfield's Bronze-Cuckoo,present_in_both,True,True
+Chalcites osculans,Black-eared Cuckoo,present_in_both,True,True
+Chenonetta jubata,Australian Wood Duck,present_in_both,True,True
+Cheramoeca leucosterna,White-backed Swallow,present_in_both,True,True
+Chlidonias hybrida,Whiskered Tern,present_in_both,True,True
+Chroicocephalus novaehollandiae,Silver Gull,present_in_both,True,True
+Cincloramphus cruralis,Brown Songlark,present_in_both,True,True
+Cincloramphus mathewsi,Rufous Songlark,present_in_both,True,True
+Cinclosoma cinnamomeum,Cinnamon Quail-thrush,present_in_both,True,True
+Circus approximans,Swamp Harrier,present_in_both,True,True
+Colluricincla harmonica,Grey Shrikethrush,present_in_both,True,True
+Columba livia,Rock Dove,present_in_both,True,True
+Conocephalus upoluensis,Greenish Meadow Katydid,present_in_both,True,True
+Coracina maxima,Ground Cuckooshrike,present_in_both,True,True
+Coracina novaehollandiae,Black-faced Cuckooshrike,present_in_both,True,True
+Corcorax melanorhamphos,White-winged Chough,present_in_both,True,True
+Corvus bennetti,Little Crow,present_in_both,True,True
+Corvus coronoides,Australian Raven,present_in_both,True,True
+Corvus mellori,Little Raven,present_in_both,True,True
+Coturnix pectoralis,Stubble Quail,present_in_both,True,True
+Cracticus nigrogularis,Pied Butcherbird,present_in_both,True,True
+Cracticus torquatus,Grey Butcherbird,present_in_both,True,True
+Crinia signifera,Common Eastern Froglet,present_in_both,True,True
+Cyclorana platycephalus,Eastern Water-holding Frog,missing_from_both,False,False
+Cygnus atratus,Black Swan,present_in_both,True,True
+Dicaeum hirundinaceum,Mistletoebird,present_in_both,True,True
+Diptera,Flies,missing_from_both,False,False
+Dromaius novaehollandiae,Emu,present_in_both,True,True
+Egretta novaehollandiae,White-faced Heron,present_in_both,True,True
+Elanus axillaris,Black-shouldered Kite,present_in_both,True,True
+Elephantodeta sp,Desert Leaf Katydid,missing_from_both,False,False
+Eolophus roseicapilla,Galah,present_in_both,True,True
+Epthianura albifrons,White-fronted Chat,present_in_both,True,True
+Epthianura aurifrons,Orange Chat,present_in_both,True,True
+Epthianura tricolor,Crimson Chat,present_in_both,True,True
+Erythrogonys cinctus,Red-kneed Dotterel,present_in_both,True,True
+Eurostopodus argus,Spotted Nightjar,present_in_both,True,True
+Falco berigora,Brown Falcon,present_in_both,True,True
+Falco cenchroides,Nankeen Kestrel,present_in_both,True,True
+Falco longipennis,Australian Hobby,present_in_both,True,True
+Falco peregrinus,Peregrine Falcon,present_in_both,True,True
+Falco subniger,Black Falcon,missing_from_birdnet_only,False,True
+Felis catus,Cat,present_in_both,True,True
+Fulica atra,Eurasian Coot,present_in_both,True,True
+Gallinula tenebrosa,Dusky Moorhen,present_in_both,True,True
+Gallirallus philippensis,Buff-banded Rail,present_in_both,True,True
+Gavicalis virescens,Singing Honeyeater,present_in_both,True,True
+Gelochelidon macrotarsa,Australian Tern,present_in_both,True,True
+Geopelia cuneata,Diamond Dove,present_in_both,True,True
+Geopelia placida,Peaceful Dove,present_in_both,True,True
+Glareola isabella,Australian Pratincole,present_in_both,True,True
+Grallina cyanoleuca,Magpie-lark,present_in_both,True,True
+Gryllodes sigillatus,Indian House Cricket,present_in_both,True,True
+Gymnorhina tibicen,Australian Magpie,present_in_both,True,True
+Haliastur sphenurus,Whistling Kite,present_in_both,True,True
+Heteroscenes pallidus,Pallid Cuckoo,present_in_both,True,True
+Hieraaetus morphnoides,Little Eagle,present_in_both,True,True
+Himantopus leucocephalus,Pied Stilt,present_in_both,True,True
+Hirundo neoxena,Welcome Swallow,present_in_both,True,True
+Hydroprogne caspia,Caspian Tern,present_in_both,True,True
+Lalage tricolor,White-winged Triller,present_in_both,True,True
+Lepidogryllus comparatus,Slow-chirping Field Cricket,missing_from_birdnet_only,False,True
+Lepidogryllus parvulus,Fast-chirping Field Cricket,missing_from_birdnet_only,False,True
+Limnodynastes fletcheri,Barking Frog,present_in_both,True,True
+Limnodynastes tasmaniensis,Spotted Marsh Frog,present_in_both,True,True
+Litoria caerulea,Green Tree Frog,present_in_both,True,True
+Litoria peronii,Peron's Tree Frog,present_in_both,True,True
+Litoria rubella,Desert Tree Frog,present_in_both,True,True
+Malacorhynchus membranaceus,Pink-eared Duck,present_in_both,True,True
+Malurus assimilis,Purple-backed Fairywren,present_in_both,True,True
+Malurus lamberti,Variegated Fairywren,present_in_both,True,True
+Malurus leucopterus,White-winged Fairywren,present_in_both,True,True
+Malurus splendens,Splendid Fairywren,present_in_both,True,True
+Manorina flavigula,Yellow-throated Miner,present_in_both,True,True
+Manorina melanocephala,Noisy Miner,present_in_both,True,True
+Melanodryas cucullata,Hooded Robin,present_in_both,True,True
+Melopsittacus undulatus,Budgerigar,present_in_both,True,True
+Merops ornatus,Rainbow Bee-eater,present_in_both,True,True
+Microcarbo melanoleucos,Little Pied Cormorant,present_in_both,True,True
+Microeca fascinans,Jacky Winter,present_in_both,True,True
+Milvus migrans,Black Kite,present_in_both,True,True
+Mirafra javanica,Singing Bushlark,present_in_both,True,True
+Myiagra inquieta,Restless Flycatcher,present_in_both,True,True
+Neobatrachus pictus,Painted Frog,missing_from_birdnet_only,False,True
+Neobatrachus sudellae,Sudell's Frog,present_in_both,True,True
+Neophema chrysostoma,Blue-winged Parrot,present_in_both,True,True
+Neopsephotus bourkii,Bourke's Parrot,present_in_both,True,True
+Ninox boobook,Australian Boobook,present_in_both,True,True
+Northiella haematogaster,Greater Bluebonnet,present_in_both,True,True
+Notaden bennettii,Crucifix Frog,missing_from_birdnet_only,False,True
+Nycticorax caledonicus,Nankeen Night Heron,present_in_both,True,True
+Nymphicus hollandicus,Cockatiel,present_in_both,True,True
+Ocyphaps lophotes,Crested Pigeon,present_in_both,True,True
+Oreoica gutturalis,Crested Bellbird,present_in_both,True,True
+Ovis aries,Sheep,present_in_both,True,True
+Pachycephala pectoralis,Golden Whistler,present_in_both,True,True
+Pachycephala rufiventris,Rufous Whistler,present_in_both,True,True
+Paradina sp,Waltzing Matilda,missing_from_both,False,False
+Pardalotus striatus,Striated Pardalote,present_in_both,True,True
+Passer domesticus,House Sparrow,present_in_both,True,True
+Pauropsalta castanea,Flinders Squawker,present_in_both,True,True
+Pauropsalta infuscata,Large Mallee Squawker,present_in_both,True,True
+Pauropsalta mneme,Alarm Clock Squawker,present_in_both,True,True
+Pedionomus torquatus,Plains Wanderer,present_in_both,True,True
+Pelecanus conspicillatus,Australian Pelican,present_in_both,True,True
+Peltohyas australis,Inland Dotterel,missing_from_birdnet_only,False,True
+Petrochelidon ariel,Fairy Martin,present_in_both,True,True
+Petrochelidon nigricans,Tree Martin,present_in_both,True,True
+Petroica goodenovii,Red-capped Robin,present_in_both,True,True
+Phalacrocorax carbo,Great Cormorant,present_in_both,True,True
+Phalacrocorax sulcirostris,Little Black Cormorant,present_in_both,True,True
+Phalacrocorax varius,Pied Cormorant,present_in_both,True,True
+Phaps chalcoptera,Common Bronzewing,present_in_both,True,True
+Phaps histrionica,Flock Bronzewing,missing_from_both,False,False
+Philemon citreogularis,Little Friarbird,present_in_both,True,True
+Platalea flavipes,Yellow-billed Spoonbill,missing_from_birdnet_only,False,True
+Platalea regia,Royal Spoonbill,present_in_both,True,True
+Plectorhyncha lanceolata,Striped Honeyeater,present_in_both,True,True
+Plegadis falcinellus,Glossy Ibis,present_in_both,True,True
+Podargus strigoides,Tawny Frogmouth,present_in_both,True,True
+Podiceps cristatus,Great Crested Grebe,present_in_both,True,True
+Poliocephalus poliocephalus,Hoary-headed Grebe,present_in_both,True,True
+Pomatostomus ruficeps,Chestnut-crowned Babbler,present_in_both,True,True
+Pomatostomus superciliosus,White-browed Babbler,present_in_both,True,True
+Poodytes gramineus,Little Grassbird,present_in_both,True,True
+Porzana fluminea,Australian Spotted Crake,present_in_both,True,True
+Psephotellus varius,Mulga Parrot,present_in_both,True,True
+Psephotus haematonotus,Red-rumped Parrot,present_in_both,True,True
+Psophodes cristatus,Chirruping Wedgebill,present_in_both,True,True
+Ptilotula ornata,Yellow-plumed Honeyeater,present_in_both,True,True
+Ptilotula penicillata,White-plumed Honeyeater,present_in_both,True,True
+Purnella albifrons,White-fronted Honeyeater,present_in_both,True,True
+Pyrrholaemus brunneus,Redthroat,present_in_both,True,True
+Recurvirostra novaehollandiae,Red-necked Avocet,present_in_both,True,True
+Rhipidura albiscapa,Grey Fantail,present_in_both,True,True
+Rhipidura leucophrys,Willie-wagtail,present_in_both,True,True
+Smicrornis brevirostris,Weebill,present_in_both,True,True
+Spatula rhynchotis,Australasian Shoveler,present_in_both,True,True
+Struthidea cinerea,Apostlebird,present_in_both,True,True
+Sturnus vulgaris,Common Starling,present_in_both,True,True
+Sugomel nigrum,Black Honeyeater,present_in_both,True,True
+Tachybaptus novaehollandiae,Australasian Grebe,present_in_both,True,True
+Tachyspiza cirrocephala,Collared Sparrowhawk,present_in_both,True,True
+Tachyspiza fasciata,Brown Goshawk,present_in_both,True,True
+Tadorna tadornoides,Australian Shelduck,present_in_both,True,True
+Taeniopygia guttata,Zebra Finch,present_in_both,True,True
+Teleogryllus commodus,Black Field Cricket,present_in_both,True,True
+Thinornis melanops,Black-fronted Dotterel,present_in_both,True,True
+Threskiornis molucca,Australian White Ibis,present_in_both,True,True
+Threskiornis spinicollis,Straw-necked Ibis,present_in_both,True,True
+Todiramphus pyrrhopygius,Red-backed Kingfisher,present_in_both,True,True
+Todiramphus sanctus,Sacred Kingfisher,present_in_both,True,True
+Tribonyx ventralis,Black-tailed Nativehen,present_in_both,True,True
+Turdus merula,Common Blackbird,present_in_both,True,True
+Turnix velox,Little Buttonquail,present_in_both,True,True
+Tyto javanica,Eastern Barn Owl,present_in_both,True,True
+Vanellus miles,Masked Lapwing,present_in_both,True,True
+Vanellus tricolor,Banded Lapwing,present_in_both,True,True
+Vulpes vulpes,Red Fox,present_in_both,True,True
+Xeropsalta thomsoni,Thomson River Grass-shaker,missing_from_both,False,False
+Zosterops lateralis,Silvereye,present_in_both,True,True
+cricket 1,Cricket 1,missing_from_both,False,False
+cricket 2,Cricket 2,missing_from_both,False,False
+cricket 3,Cricket 3,missing_from_both,False,False
